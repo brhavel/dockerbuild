@@ -1,3 +1,3 @@
-FROM registry.suse.com/suse/sle15:15.2
+FROM registry.suse.com/bci/bci-base:latest
 
 RUN echo "hello world"
